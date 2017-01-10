@@ -1,0 +1,9 @@
+{
+  "require": {
+    "bcosca/fatfree": "*",
+    "php7-json": "*"
+  },
+  "autoload": {
+    "psr-4": {"TeamleaderExercise1\\": "src/"}
+  }
+}
