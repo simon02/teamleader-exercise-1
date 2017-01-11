@@ -1,6 +1,6 @@
 # Teamleader Coding Test: Discounts
 
-This is my submission for the (coding test)[https://github.com/teamleadercrm/coding-test/blob/master/1-discounts.md] as posed by Teamleader.
+This is my submission for the [coding test](https://github.com/teamleadercrm/coding-test/blob/master/1-discounts.md) as posed by Teamleader.
 
 # Setup
 
@@ -20,7 +20,7 @@ To calculate the discounts on an order, fire up the following request (eg. using
 
   POST /calculate_discounts
 
-The body should contain an order in JSON (see example)[https://github.com/teamleadercrm/coding-test/blob/master/example-orders/order1.json]. For the example order, this would look like this:
+The body should contain an order in JSON [see example](https://github.com/teamleadercrm/coding-test/blob/master/example-orders/order1.json). For the example order, this would look like this:
 
 ```json
 {
